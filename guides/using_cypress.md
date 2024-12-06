@@ -22,7 +22,7 @@ We use Cypress for end-to-end testing.
 ## Actions and Logging
 
 -   You can see actions and there logs and running [here](https://github.com/ava-labs/avalanche-wallet-internal/actions)
-    -   git action logging doesnt do well live, as of this you have to refresh the logs to see them as they run
+    -   git action logging doesn't do well live, as of this you have to refresh the logs to see them as they run
 
 ## Cypress config
 
